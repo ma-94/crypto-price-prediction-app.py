@@ -1,1 +1,1 @@
-## Streamlit datascience apps.
+## Streamlit data science apps.
